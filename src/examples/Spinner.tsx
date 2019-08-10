@@ -22,7 +22,7 @@ const Spinner: React.FC<SpinnerProp> = ({color, width, height}) => {
                 width,
                 height,
                 borderRadius: 30,
-                margin: '40vh auto'
+                margin: '10vh auto 0'
             }}
         />
     )
