@@ -9,6 +9,6 @@ A repository to play around with framer's motion API with React and Typescript.
 ### Todo
 
 - [x] Spinner
-- [ ] Gestures  
+- [x] Gestures  
 - [ ] Drag  
 - [ ] Toggle
