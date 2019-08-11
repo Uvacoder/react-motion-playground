@@ -6,6 +6,7 @@ A repository to play around with framer's motion API with React and Typescript.
 
 * [Spinner](src/examples/Spinner.tsx)
 * [Gesture (hover and tap)](src/examples/Gestures.tsx)
+* [Drag](src/examples/Drag.tsx)
 
 ### Todo
 
