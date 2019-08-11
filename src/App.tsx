@@ -1,6 +1,7 @@
 import React from 'react';
 import Spinner from "./examples/Spinner";
 import Gestures from './examples/Gestures';
+import Drag from './examples/Drag';
 
 const buttonVariants = {
   tap: {
@@ -20,6 +21,7 @@ const App: React.FC = () => {
       <Gestures color="#9955fe" variants={buttonVariants}>
         hover / tap
       </Gestures>
+      <Drag color="#9955fe"/>
     </div>
   );
 };
