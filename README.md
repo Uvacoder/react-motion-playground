@@ -11,5 +11,6 @@ A repository to play around with framer's motion API with React and Typescript.
 
 - [x] Spinner
 - [x] Gestures  
-- [ ] Drag  
+- [x] Drag  
 - [ ] Toggle
+- [ ] Menu
